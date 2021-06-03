@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 
-int
-main(int argc, char **argv){
+int main(int argc, char **argv){
+    printf("What is subnet mask?");
     return 0;
 }
